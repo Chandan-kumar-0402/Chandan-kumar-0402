@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chandan Kumar Nanda👋</h1>
-<h3 align="center">Software Engineer Aspiring To Get Into Data Science Domain </h3>
+<h3 align="center">Software Engineer Aspiring To be a Data Analyst </h3>
 
 
 ## 🚀 About Me
@@ -8,11 +8,9 @@
 <p align = "justify">👋 Hello there! I'm Chandan Kumar Nanda working as a software engineer at cognizant and an aspiring Data Analyst with a passion for transforming raw data into actionable insights. I'm thrilled to embark on my journey in the world of data analysis, where I can leverage my analytical skills to extract meaningful patterns and drive informed decision-making. </p>
 
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
-
 - 💬 Ask me about <br>
   <ul> 
-    <li>Transitioning from Production software engineer to Data Analytics</li>
+    <li>Transitioning from software engineer to Data Analytics</li>
     <li> MySQL</li> 
     <li>  Python Libraries (Numpy, Pandas, Matplotlib, Seaborn, Scipy) </li>
     <li>  MS Excel </li> 
@@ -23,7 +21,7 @@
 
 - 📫 How to reach me **chandannanda0402@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1FMV29ea9CDL_zA30DT5t-L749AXKFolI
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1FMV29ea9CDL_zA30DT5t-L749AXKFolI](https://app.luminpdf.com/viewer/6635ecbeb14269605f3ac2da)
 <h3 align="left"> 🔗 Connect with me:</h3>
 <hr width=300>
 <p align="left">
@@ -38,14 +36,11 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="150" height="100"/> </a> </p>
 <p align = "left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="150" height="100"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="150" height="100"/> </a>   
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="150" height="100"/> </a>  </p>
-<p align = "left">  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="150" height="100"/> </a>    
   <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="150" height="100"/> </a> 
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="150" height="100"/> </a>
   <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Microsoft Excel"  width="150" height="100"/> </a></p>
 <p align = "left">
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="150" height="100"/> </a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="150" height="65"/> </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Tableau_logo.svg/375px-Tableau_logo.svg.png" alt="Tableau" width="160" height="65"/> </a>
   <br /><br /></p>
