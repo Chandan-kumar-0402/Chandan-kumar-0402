@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **chandannanda0402@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1FMV29ea9CDL_zA30DT5t-L749AXKFolI](https://app.luminpdf.com/viewer/6635ecbeb14269605f3ac2da)
+- 📄 Know about my experiences file:///C:/Users/ASUS/OneDrive/Desktop/Resume/Final/CHANDAN_KUMAR_NANDA_DATA_ANALYST.pdf
 <h3 align="left"> 🔗 Connect with me:</h3>
 <hr width=300>
 <p align="left">
